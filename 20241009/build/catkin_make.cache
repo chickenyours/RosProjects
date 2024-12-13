@@ -1,0 +1,2 @@
+hello
+-DCATKIN_DEVEL_PREFIX=/home/chickenyours/RosProjects/20241009/devel -DCMAKE_INSTALL_PREFIX=/home/chickenyours/RosProjects/20241009/install -G Unix Makefiles

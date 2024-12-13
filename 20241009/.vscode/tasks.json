@@ -1,0 +1,18 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+            "label": "Build ROS Package",
+            "type": "shell",
+            "command": "catkin_make",
+            "args": [
+                  // 仅构建当前包
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+	]
+}

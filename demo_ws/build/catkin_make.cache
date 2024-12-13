@@ -1,0 +1,2 @@
+demo_pkg
+-DCATKIN_DEVEL_PREFIX=/home/chickenyours/RosProjects/demo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chickenyours/RosProjects/demo_ws/install -G Unix Makefiles

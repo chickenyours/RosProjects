@@ -1,0 +1,8 @@
+prefix=/home/chickenyours/RosProjects/demo_ws/install
+
+Name: demo_pkg
+Description: Description of demo_pkg
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs roscpp message_runtime
